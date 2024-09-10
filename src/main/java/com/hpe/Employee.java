@@ -1,14 +1,14 @@
 package com.hpe;
 
 public class Employee {
-    private Long employeeId;
+    private int employeeId;
     private String firstName;
     private String lastName;
     private String email;
     private String title;
 
     
-    public Employee(Long employeeId, String firstName, String lastName, String email, String title) {
+    public Employee(int employeeId, String firstName, String lastName, String email, String title) {
         this.employeeId = employeeId;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -17,7 +17,7 @@ public class Employee {
     }
 
     
-    public Long getEmployeeId() {
+    public int getEmployeeId() {
         return employeeId;
     }
 
