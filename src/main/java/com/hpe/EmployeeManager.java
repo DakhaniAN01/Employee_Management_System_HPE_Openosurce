@@ -1,4 +1,8 @@
 package com.hpe;
+
+import com.hpe.Model.Employee;
+import com.hpe.Model.Employees;
+
 public class EmployeeManager {
     private Employees employees;
 

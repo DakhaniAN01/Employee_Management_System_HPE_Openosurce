@@ -1,5 +1,8 @@
-package com.hpe;
+package com.hpe.Controller;
 
+import com.hpe.EmployeeManager;
+import com.hpe.Model.Employee;
+import com.hpe.Model.Employees;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

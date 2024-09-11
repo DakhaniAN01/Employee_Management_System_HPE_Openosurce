@@ -1,4 +1,4 @@
-package com.hpe;
+package com.hpe.Model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.hpe;
+package com.hpe.Model;
 
 public class Employee {
     private int employeeId;
